@@ -23,6 +23,9 @@ node_modules/
 *_key.sh
 credentials.*
 
+# External skills (symlinked from other repos)
+skills/adr
+
 # Claude Code local data
 cache/
 debug/

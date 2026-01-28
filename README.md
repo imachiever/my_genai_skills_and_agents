@@ -31,7 +31,7 @@ This separation is MECE (Mutually Exclusive, Collectively Exhaustive) - no dupli
 │   ├── tester.md             # Test strategy and implementation
 │   └── documenter.md         # Technical writing
 │
-├── skills/                    # On-demand knowledge (14 total)
+├── skills/                    # On-demand knowledge (14 owned + external)
 │   ├── engineering-practices/ # Prompt templates, tooling reference
 │   ├── agent-harness-patterns/# Ralph-loop, autonomous agents
 │   ├── google-adk-enterprise/ # Google ADK patterns
