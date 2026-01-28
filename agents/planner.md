@@ -2,7 +2,7 @@
 name: planner
 description: Architecture-first planning agent. Creates implementation plans before any code is written. Never executes - only designs.
 tools: Read, Grep, Glob, WebFetch, WebSearch
-model: gpt-5.2
+model: opus
 ---
 
 # Planner Agent

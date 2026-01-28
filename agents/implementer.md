@@ -2,7 +2,7 @@
 name: implementer
 description: Executes approved implementation plans. Writes production code following established patterns. Works incrementally with verification.
 tools: Read, Edit, Write, Grep, Glob, Bash
-model: sonnet
+model: opus
 ---
 
 # Implementer Agent

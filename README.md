@@ -58,7 +58,7 @@ This separation is MECE (Mutually Exclusive, Collectively Exhaustive) - no dupli
 | Agent | Model | Description |
 |-------|-------|-------------|
 | **planner** | opus | Architecture-first planning. Creates implementation plans before any code is written. Never executes - only designs. |
-| **implementer** | sonnet | Executes approved plans. Writes production code following established patterns. Works incrementally with verification. |
+| **implementer** | opus | Executes approved plans. Writes production code following established patterns. Works incrementally with verification. |
 | **prompt-engineer** | opus | Expert in prompt design for agentic systems. Optimizes LLM instructions, decides when to use prompts vs code. |
 | **standards** | sonnet | Enforces best practices and conventions. Knows modern tooling (uv, ruff, etc.) and anti-patterns to avoid. |
 | **orchestration** | opus | Expert in multi-agent coordination, workflow design, state management, and task routing. |
