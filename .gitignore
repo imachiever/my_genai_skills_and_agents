@@ -22,3 +22,20 @@ node_modules/
 *.env
 *_key.sh
 credentials.*
+
+# Claude Code local data
+cache/
+debug/
+file-history/
+history.jsonl
+ide/
+paste-cache/
+plugins/
+projects/
+settings.json
+shell-snapshots/
+stats-cache.json
+statsig/
+tasks/
+telemetry/
+todos/
